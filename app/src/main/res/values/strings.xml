@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testAndroid1302</string>
+    <string name="any_id">Any ID</string>
+    <string name="any_name">Any name</string>
+    <string name="any_number">Any number</string>
+    <string name="any_breed">Any breed</string>
+</resources>
